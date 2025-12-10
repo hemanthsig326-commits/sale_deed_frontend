@@ -1,0 +1,23 @@
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+  background: #f8f9fa;
+}
+label {
+  font-weight: 600;
+}
+input {
+  margin: 4px 0 16px;
+  padding: 8px;
+  width: 300px;
+}
+button {
+  padding: 10px 16px;
+  background: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  opacity: 0.8;
+}
